@@ -8,4 +8,7 @@ Text editor:Dreamweaver, Frontpage
 Photo tool: Photoimpact, Photoshop
 Language: JSP, My Sql, CSS, Flash, Java, Html
 
+I will listed down all the folder informaton:
+
+
 
