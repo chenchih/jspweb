@@ -1,0 +1,4 @@
+register =>still have problem with register. There is a  bug in valdation on user id. But is able to register. 
+link==>ok, mark menu bark as comment 
+update_delete_edit==>ok
+note: ok done

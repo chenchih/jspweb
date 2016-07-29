@@ -1,0 +1,25 @@
+Note for this website
+
+directory:sample-test
+description: this page is a by TA which is easy register, signin to db\
+status: done
+
+directory:cityyear 
+descriptio: will automatic occurcity and state. fix previous problem.
+previous is TA write using java bean, i changed to html method
+status: done, need to used ie
+DB: abc
+
+directory: update2_advance  used java bean for other website 
+
+directory:night  same AS CITY YEAR
+
+
+
+latest prj:
+directory: acc
+description: this is a site when i was in college graduate project
+
+
+
+

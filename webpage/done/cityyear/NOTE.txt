@@ -1,0 +1,1 @@
+ONly support IE, due to ActiveXObject is part of IE technology. Need to find solution to fix this problem
