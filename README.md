@@ -12,4 +12,3 @@ I will listed down all the folder informaton:
 
 
 
-#![alt text](front-end-mind-map.png "Description goes here")
